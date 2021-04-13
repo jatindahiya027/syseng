@@ -56,3 +56,12 @@ The following packages were added:
   com.unity.learn.iet-framework@0.3.0-preview.5
   com.unity.postprocessing@2.3.0
   com.unity.probuilder@4.2.3
+
+=== Tue Apr 13 23:47:38 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.test-framework from version 1.1.22 to 1.1.24
+  com.unity.textmeshpro from version 2.1.1 to 2.1.4
